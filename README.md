@@ -1,0 +1,2 @@
+# Smart-Bot
+smart Bot that can help users of our e-learning site to find any product in any field and have a great experience . Based on an NLP algorithm , the bot understands user's intent , predict what he wants and calls Microsoft Graph API to access the site and collect the specified data then perfectly answers his needs .Built with Aiohttp client/server HTTP app , Tested on Microsoft Azure Bot framework and deployed on Azure cloud
